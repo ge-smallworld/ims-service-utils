@@ -14,8 +14,8 @@ const UAA = require('./uaa');
  * var props = {
  *  predixZoneId: '56e57707-cae0-4589-b62c-b222c462c1d3',
  *  subtenantId: '56e57707-cae0-4589-b62c-b222c462c1d3',
- *  clientId: 'enrique',
- *  clientSecret: 'enrique',
+ *  clientId: 'this-is-the-client-id',
+ *  clientSecret: 'this-is-the-client-secret',
  *  uaaInstanceId: '36b8dd23-51eb-4b74-bef9-ea2f029fa7ee'
  * };
  *
