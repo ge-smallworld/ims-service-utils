@@ -1,0 +1,25 @@
+{
+  "name": "ims-service-utils",
+  "author": "General Electric",
+  "version": "0.0.1",
+  "description": "A set of JavaScript utilities to assist the development of applications that use Predix Intelligent Mapping and Dynamic Mapping services",
+  "license": "MIT",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ge-smallworld/ims-service-utils.git"
+  },
+  "keywords": [
+    "intelligent-mapping",
+    "Smallworld"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.2",
+    "express-request-proxy": "^2.0.0",
+    "predix-uaa-client": "^1.2.1"
+  }
+}
